@@ -2,20 +2,19 @@
 
 ### Цветовая гамма текста (по спектру)
 
-$\color{red}{\text{Красный текст}}$
-$\color{orange}{\text{Оранжевый текст}}$
-$\color{yellow}{\text{Желтый текст}}$
-$\color{lightgreen}{\text{Салатовый текст}}$
-$\color{green}{\text{Зеленый текст}}$
-$\color{lightblue}{\text{Голубой текст}}$
-$\color{blue}{\text{Синий текст}}$
-$\color{purple}{\text{Фиолетовый текст}}$
-$\color{magenta}{\text{Пурпурный (маджента) текст}}$
-$\color{pink}{\text{Розовый текст}}$
-$\color{brown}{\text{Коричневый текст}}$
-$\color{gray}{\text{Серый текст}}$
-$\color{white}{\text{Белый текст}}$
-
+- $\color{red}{\text{Красный текст}}$
+- $\color{orange}{\text{Оранжевый текст}}$
+- $\color{yellow}{\text{Желтый текст}}$
+- $\color{lightgreen}{\text{Салатовый текст}}$
+- $\color{green}{\text{Зеленый текст}}$
+- $\color{lightblue}{\text{Голубой текст}}$
+- $\color{blue}{\text{Синий текст}}$
+- $\color{purple}{\text{Фиолетовый текст}}$
+- $\color{magenta}{\text{Пурпурный текст}}$
+- $\color{pink}{\text{Розовый текст}}$
+- $\color{brown}{\text{Коричневый текст}}$
+- $\color{gray}{\text{Серый текст}}$
+- $\color{white}{\text{Белый текст}}$
 
 ### 2. Цветные блоки внимания 
 > [!NOTE]
